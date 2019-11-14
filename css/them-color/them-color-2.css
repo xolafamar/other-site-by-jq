@@ -1,0 +1,78 @@
+/*css*/
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* them color */
+.color-1 {
+  color: white;
+}
+
+.color-2 {
+  color: #212529;
+}
+
+.color-3 {
+  color: #ff5100;
+}
+
+.color-4 {
+  color: #ff9e0d;
+}
+
+.color-5 {
+  color: #0000007a;
+}
+
+.color-6 {
+  color: grey;
+}
+
+/* them background*/
+
+.background-1 {
+  background-color: #efefef;
+}
+
+.background-2 {
+  background: #212529;
+}
+
+.background-3 {
+  background: #ff5100;
+}
+
+.backgorund-4 {
+  background: #ff9e0d;
+}
+
+.background-5 {
+  background: #0000007a;
+}
+
+/* border */
+
+.border-color5 {
+  border: 2px solid black;
+}
+/* gradient background */
+
+.gradient-1 {
+  background: linear-gradient(45deg, #ff9e0d, #ff5100);
+}
+/* end them color*/
+
+.price-content ul li:hover {
+  border-right: 15px solid #ff5100;
+}
+
+.Features-Work ul li:hover,
+.active1 {
+  color: #ff5100;
+  background: #ff9e0d;
+}
+a:hover {
+  color: #ff5100;
+}

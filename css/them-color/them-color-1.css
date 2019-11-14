@@ -1,0 +1,65 @@
+/*css*/
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* them color */
+.color-1 {
+  color: white;
+}
+
+.color-2 {
+  color: #212529;
+}
+
+.color-3 {
+  color: #1485cc;
+}
+
+.color-4 {
+  color: red;
+}
+
+.color-5 {
+  color: #0000007a;
+}
+
+.color-6 {
+  color: grey;
+}
+
+/* them background*/
+
+.background-1 {
+  background-color: #efefef;
+}
+
+.background-2 {
+  background: #212529;
+}
+
+.background-3 {
+  background: #1485cc;
+}
+
+.backgorund-4 {
+  background: red;
+}
+
+.background-5 {
+  background: #0000007a;
+}
+
+/* border */
+
+.border-color5 {
+  border: 2px solid black;
+}
+/* gradient background */
+
+.gradient-1 {
+  background: linear-gradient(45deg, #08526d, #11bcfa);
+}
+/* end them color*/
